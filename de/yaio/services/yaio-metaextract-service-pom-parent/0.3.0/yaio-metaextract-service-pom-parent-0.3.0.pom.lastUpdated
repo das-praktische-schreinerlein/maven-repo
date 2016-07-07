@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 07 23:07:59 CEST 2016
+http\://spring-roo-repository.springsource.org/release/.error=
+http\://maven.springframework.org/release/.error=
+https\://github.com/das-praktische-schreinerlein/maven-repo/raw/master/.error=
+http\://spring-roo-repository.springsource.org/release/.lastUpdated=1467925678928
+http\://repo.spring.io/libs-release/.error=
+https\://github.com/das-praktische-schreinerlein/maven-repo/raw/master/.lastUpdated=1467925678355
+http\://maven.springframework.org/release/.lastUpdated=1467925678639
+http\://repo.spring.io/libs-release/.lastUpdated=1467925679229
+https\://repo.maven.apache.org/maven2/.lastUpdated=1467925679366
+https\://repo.maven.apache.org/maven2/.error=
