@@ -3,11 +3,12 @@
   <groupId>de.yaio.services</groupId>
   <artifactId>yaio-metaextract-service-client</artifactId>
   <versioning>
-    <release>0.3.0</release>
+    <release>0.4.0</release>
     <versions>
       <version>0.3.0-SNAPSHOT</version>
       <version>0.3.0</version>
+      <version>0.4.0</version>
     </versions>
-    <lastUpdated>20160707211036</lastUpdated>
+    <lastUpdated>20160928154258</lastUpdated>
   </versioning>
 </metadata>
