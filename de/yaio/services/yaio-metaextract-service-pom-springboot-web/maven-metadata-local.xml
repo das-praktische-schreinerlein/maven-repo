@@ -3,11 +3,12 @@
   <groupId>de.yaio.services</groupId>
   <artifactId>yaio-metaextract-service-pom-springboot-web</artifactId>
   <versioning>
-    <release>0.4.0</release>
+    <release>0.4.1-RELEASE</release>
     <versions>
       <version>0.3.0</version>
       <version>0.4.0</version>
+      <version>0.4.1-RELEASE</version>
     </versions>
-    <lastUpdated>20160928154232</lastUpdated>
+    <lastUpdated>20161030102552</lastUpdated>
   </versioning>
 </metadata>
