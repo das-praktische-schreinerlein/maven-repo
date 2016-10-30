@@ -3,10 +3,11 @@
   <groupId>de.yaio.services</groupId>
   <artifactId>yaio-plantuml-service-pom-springboot-web</artifactId>
   <versioning>
-    <release>0.5.0</release>
+    <release>0.5.1-RELEASE</release>
     <versions>
       <version>0.5.0</version>
+      <version>0.5.1-RELEASE</version>
     </versions>
-    <lastUpdated>20160707211058</lastUpdated>
+    <lastUpdated>20161030104111</lastUpdated>
   </versioning>
 </metadata>
