@@ -3,10 +3,11 @@
   <groupId>de.yaio.services</groupId>
   <artifactId>yaio-webshot-service-pom-springboot</artifactId>
   <versioning>
-    <release>0.6.0</release>
+    <release>0.6.1-RELEASE</release>
     <versions>
       <version>0.6.0</version>
+      <version>0.6.1-RELEASE</version>
     </versions>
-    <lastUpdated>20160707211043</lastUpdated>
+    <lastUpdated>20161030105350</lastUpdated>
   </versioning>
 </metadata>

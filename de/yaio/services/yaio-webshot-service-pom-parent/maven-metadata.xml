@@ -3,10 +3,11 @@
   <groupId>de.yaio.services</groupId>
   <artifactId>yaio-webshot-service-pom-parent</artifactId>
   <versioning>
-    <release>0.6.0</release>
+    <release>0.6.1-RELEASE</release>
     <versions>
       <version>0.6.0</version>
+      <version>0.6.1-RELEASE</version>
     </versions>
-    <lastUpdated>20160707211042</lastUpdated>
+    <lastUpdated>20161030105348</lastUpdated>
   </versioning>
 </metadata>
